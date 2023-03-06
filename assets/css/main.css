@@ -15,7 +15,7 @@
 }
 
 .primary-color{
-  background-color: var(--color-primary);
+  background-color: #ffd8bd;
 }
 
 /* Smooth scroll behavior */
@@ -69,7 +69,7 @@ section {
 
 .section-bg {
   /* background-color: #eee; */
-  background-color: #f88777;
+  background-color: #ffcea8;
   /* background-image: url(/assets/img/bg.png); */
 }
 
